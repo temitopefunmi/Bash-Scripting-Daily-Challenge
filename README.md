@@ -7,9 +7,39 @@ Welcome to my Bash scripting practice log! I'm committing to write one Bash scri
 ## 📅 Challenge Schedule
 
 | Day | Topic | Status | Notes |
-|-----|-------|--------|-------|
-| 1   | Hello Bash & Variables | ✅ Done | Used variables and `date` to print a greeting |
-| 2   | *(To be updated)* | ⏳ | |
+|-----|---------------------------|--------|-------|
+| 1   | Hello Bash & Variables | ✅ | Intro to variables and `date` |
+| 2   | User Input & If Statements | ✅ | Read user input, use `if` |
+| 3   | For Loops & Arrays | ✅ | Loop through arrays, bonus: countdown (`day3_bonus1.sh`) and file loop (`day3_bonus2.sh`) |
+| 4   | While Loops & Counters | ⏳ | |
+| 5   | Arithmetic in Bash | ⏳ | |
+| 6   | Functions | ⏳ | |
+| 7   | Command-Line Arguments | ⏳ | |
+| 8   | Exit Codes & Status Checks | ⏳ | |
+| 9   | File Testing | ⏳ | |
+| 10  | String Operations | ⏳ | |
+| 11  | Case Statements | ⏳ | |
+| 12  | Script Logging | ⏳ | |
+| 13  | Scheduling Scripts (cron) | ⏳ | |
+| 14  | Flags & Options (`getopts`) | ⏳ | |
+| 15  | Parsing CSV or Text Files | ⏳ | |
+| 16  | Basic File Automation | ⏳ | |
+| 17  | Disk Usage Reports | ⏳ | |
+| 18  | Log Monitoring | ⏳ | |
+| 19  | Backups & Archiving | ⏳ | |
+| 20  | System Info Script | ⏳ | |
+| 21  | Ping & Network Checks | ⏳ | |
+| 22  | Process Management | ⏳ | |
+| 23  | Permissions & Ownership | ⏳ | |
+| 24  | Temporary Files | ⏳ | |
+| 25  | Error Handling & Debugging | ⏳ | |
+| 26  | Menu-Driven Scripts | ⏳ | |
+| 27  | Using CLI Tools (`curl`, `jq`, etc.) | ⏳ | |
+| 28  | Secure Script Practices | ⏳ | |
+| 29  | Bash + Cloud CLI Automation | ⏳ | |
+| 30  | Final Mini Project | ⏳ | |
+
+
 
 ---
 
