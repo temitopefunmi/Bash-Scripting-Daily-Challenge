@@ -11,9 +11,9 @@ Welcome to my Bash scripting practice log! I'm committing to write one Bash scri
 | 1   | Hello Bash & Variables | ✅ | Intro to variables and `date` |
 | 2   | User Input & If Statements | ✅ | Read user input, use `if` |
 | 3   | For Loops & Arrays | ✅ | Loop through arrays, bonus: countdown (`day3_bonus1.sh`) and file loop (`day3_bonus2.sh`) |
-| 4   | While Loops & Counters | ⏳ | |
-| 5   | Arithmetic in Bash | ⏳ | |
-| 6   | Functions | ⏳ | |
+| 4   | While Loops & Counters | ✅ Done | Countdown + interactive math quiz (bonus) |
+| 5   | Arithmetic in Bash | ✅ Done | Practiced basic math and user input math calculator |
+| 6   | Functions | ✅ Done | Created greeting and calculator functions |
 | 7   | Command-Line Arguments | ⏳ | |
 | 8   | Exit Codes & Status Checks | ⏳ | |
 | 9   | File Testing | ⏳ | |
