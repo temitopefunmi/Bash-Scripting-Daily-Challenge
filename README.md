@@ -14,7 +14,7 @@ Welcome to my Bash scripting practice log! I'm committing to write one Bash scri
 | 4   | While Loops & Counters | ✅ Done | Countdown + interactive math quiz (bonus) |
 | 5   | Arithmetic in Bash | ✅ Done | Practiced basic math and user input math calculator |
 | 6   | Functions | ✅ Done | Created greeting and calculator functions |
-| 7   | Command-Line Arguments | ⏳ | |
+| 7   | Command-Line Arguments | ✅ Done | Learned how to use \$1, \$2, \$@ and validate inputs |
 | 8   | Exit Codes & Status Checks | ⏳ | |
 | 9   | File Testing | ⏳ | |
 | 10  | String Operations | ⏳ | |
