@@ -15,15 +15,15 @@ Welcome to my Bash scripting practice log! I'm committing to write one Bash scri
 | 5   | Arithmetic in Bash | ✅ Done | Practiced basic math and user input math calculator |
 | 6   | Functions | ✅ Done | Created greeting and calculator functions |
 | 7   | Command-Line Arguments | ✅ Done | Learned how to use \$1, \$2, \$@ and validate inputs |
-| 8   | Exit Codes & Status Checks | ⏳ | |
-| 9   | File Testing | ⏳ | |
-| 10  | String Operations | ⏳ | |
-| 11  | Case Statements | ⏳ | |
-| 12  | Script Logging | ⏳ | |
-| 13  | Scheduling Scripts (cron) | ⏳ | |
-| 14  | Flags & Options (`getopts`) | ⏳ | |
-| 15  | Parsing CSV or Text Files | ⏳ | |
-| 16  | Basic File Automation | ⏳ | |
+| 8   | File Operations | ✅ Done | Practiced reading, writing, and checking files |
+| 9   | Menus & Input Validation | ✅ Done | Used `select`, `read`, `case`, and input checks |
+| 10  | Background & Scheduling | ✅ Done | Learned about `&`, `wait`, `sleep`, and `cron` |
+| 11  | User Management & Permissions | ✅ Done | Created users, managed groups, and locked accounts |
+| 12  | File Compression & Archiving | ✅ Done | Learned to use tar, gzip, and zip for backups and selective compression |
+| 13  | Logging and Error Handling |  ✅ Done | Write logs, redirect stdout/stderr, trap errors, timestamps |
+| 14  | Script Parameters and Flags | ✅ Done | Use $1, $2, $@, shift, getopts for CLI-style scripts |
+| 15  | Menu-Driven Scripts & Final Review | ⏳ | Build interactive scripts (select, case), recap all core concepts |
+| 16  | -------------------------------------------------------------------------------------------------------
 | 17  | Disk Usage Reports | ⏳ | |
 | 18  | Log Monitoring | ⏳ | |
 | 19  | Backups & Archiving | ⏳ | |

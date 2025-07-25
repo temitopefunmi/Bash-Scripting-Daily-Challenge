@@ -1,0 +1,22 @@
+[2025-07-18 21:38:34] Archive process started
+	zip warning: name not matched: /app_logs/*.log
+
+zip error: Nothing to do! (app_logs/log_backups/2025-07-18.zip)
+[2025-07-18_21:38:34] Error on line 12 
+ Script Failed
+[2025-07-18 21:42:20] Archive process started
+  adding: app_logs/log1.log (stored 0%)
+  adding: app_logs/log2.log (stored 0%)
+  adding: app_logs/log3.log (stored 0%)
+[2025-07-18 21:42:20] Operation done. Success...
+[2025-07-18 21:45:48] Archive process started
+  adding: log1.log (stored 0%)
+  adding: log2.log (stored 0%)
+  adding: log3.log (stored 0%)
+[2025-07-18 21:45:48] Operation done. Success...
+[2025-07-18 21:48:51] Archive process started
+  adding: log1.log (stored 0%)
+  adding: log2.log (stored 0%)
+  adding: log3.log (stored 0%)
+Archive created: logs-2025-07-18.zip
+[2025-07-18 21:48:51] Operation done. Success...
