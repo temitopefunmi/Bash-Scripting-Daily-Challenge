@@ -1,0 +1,122 @@
+System information report
+--------------------------
+Hostname: macs-MacBook-Air.local
+OS and Kernel: Darwin macs-MacBook-Air.local 21.6.0 Darwin Kernel Version 21.6.0: Wed Apr 24 06:02:02 PDT 2024; root:xnu-8020.240.18.708.4~1/RELEASE_X86_64 x86_64
+uptime: illegal option -- p
+usage: uptime
+Uptime: 
+Logged in users:
+mac      console  Jun 25 07:44 
+
+Memory Usage:
+--------------
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                                9961.
+Pages active:                            255230.
+Pages inactive:                          253574.
+Pages speculative:                         1319.
+Pages throttled:                              0.
+Pages wired down:                        360492.
+Pages purgeable:                           4608.
+"Translation faults":                5052914555.
+Pages copy-on-write:                  191757456.
+Pages zero filled:                   1362769478.
+Pages reactivated:                   1581422989.
+Pages purged:                          91271056.
+File-backed pages:                       149727.
+Anonymous pages:                         360396.
+Pages stored in compressor:             1904683.
+Pages occupied by compressor:            167901.
+Decompressions:                      1634160242.
+Compressions:                        1896710532.
+Pageins:                              224881006.
+Pageouts:                               5976848.
+Swapins:                              341923103.
+Swapouts:                             353955360.
+
+CPU and Memory
+---------------
+CPU Info:
+machdep.cpu.mwait.linesize_min: 64
+machdep.cpu.mwait.linesize_max: 64
+machdep.cpu.mwait.extensions: 3
+machdep.cpu.mwait.sub_Cstates: 286531872
+machdep.cpu.thermal.sensor: 1
+machdep.cpu.thermal.dynamic_acceleration: 1
+machdep.cpu.thermal.invariant_APIC_timer: 1
+machdep.cpu.thermal.thresholds: 2
+machdep.cpu.thermal.ACNT_MCNT: 1
+machdep.cpu.thermal.core_power_limits: 1
+machdep.cpu.thermal.fine_grain_clock_mod: 1
+machdep.cpu.thermal.package_thermal_intr: 1
+machdep.cpu.thermal.hardware_feedback: 0
+machdep.cpu.thermal.energy_policy: 1
+machdep.cpu.xsave.extended_state: 7 832 832 0
+machdep.cpu.xsave.extended_state1: 1 0 0 0
+machdep.cpu.arch_perf.version: 3
+machdep.cpu.arch_perf.number: 4
+machdep.cpu.arch_perf.width: 48
+machdep.cpu.arch_perf.events_number: 7
+machdep.cpu.arch_perf.events: 0
+machdep.cpu.arch_perf.fixed_number: 3
+machdep.cpu.arch_perf.fixed_width: 48
+machdep.cpu.cache.linesize: 64
+machdep.cpu.cache.L2_associativity: 8
+machdep.cpu.cache.size: 256
+machdep.cpu.tlb.inst.large: 8
+machdep.cpu.tlb.data.small: 64
+machdep.cpu.tlb.data.small_level1: 64
+machdep.cpu.address_bits.physical: 39
+machdep.cpu.address_bits.virtual: 48
+machdep.cpu.tsc_ccc.numerator: 0
+machdep.cpu.tsc_ccc.denominator: 0
+machdep.cpu.max_basic: 20
+machdep.cpu.max_ext: 2147483656
+machdep.cpu.vendor: GenuineIntel
+machdep.cpu.brand_string: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz
+machdep.cpu.family: 6
+machdep.cpu.model: 61
+machdep.cpu.extmodel: 3
+machdep.cpu.extfamily: 0
+machdep.cpu.stepping: 4
+machdep.cpu.feature_bits: 9221959987971750911
+machdep.cpu.leaf7_feature_bits: 35399595 0
+machdep.cpu.leaf7_feature_bits_edx: 2617247232
+machdep.cpu.extfeature_bits: 1241984796928
+machdep.cpu.signature: 198356
+machdep.cpu.brand: 0
+machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
+machdep.cpu.leaf7_features: RDWRFSGS TSC_THREAD_OFFSET BMI1 AVX2 SMEP BMI2 ERMS INVPCID FPU_CSDS RDSEED ADX SMAP IPT MDCLEAR IBRS STIBP L1DF SSBD
+machdep.cpu.extfeatures: SYSCALL XD 1GBPAGE EM64T LAHF LZCNT PREFETCHW RDTSCP TSCI
+machdep.cpu.logical_per_package: 16
+machdep.cpu.cores_per_package: 8
+machdep.cpu.microcode_version: 47
+machdep.cpu.processor_flag: 6
+machdep.cpu.core_count: 2
+machdep.cpu.thread_count: 4
+
+Disk Usage
+------------
+Filesystem                                    Size   Used  Avail Capacity iused    ifree %iused  Mounted on
+/dev/disk1s5s1                               113Gi   14Gi  7.6Gi    66%  502387 79718520    1%   /
+devfs                                        343Ki  343Ki    0Bi   100%    1186        0  100%   /dev
+/dev/disk1s4                                 113Gi  5.0Gi  7.6Gi    40%       6 79718520    0%   /System/Volumes/VM
+/dev/disk1s2                                 113Gi  259Mi  7.6Gi     4%     791 79718520    0%   /System/Volumes/Preboot
+/dev/disk1s6                                 113Gi  1.4Mi  7.6Gi     1%      16 79718520    0%   /System/Volumes/Update
+/dev/disk1s1                                 113Gi   84Gi  7.6Gi    92% 1003547 79718520    1%   /System/Volumes/Data
+map auto_home                                  0Bi    0Bi    0Bi   100%       0        0  100%   /System/Volumes/Data/home
+/Users/mac/Downloads/Visual Studio Code.app  113Gi   85Gi  6.6Gi    93%  975646 68756640    1%   /private/var/folders/w4/wc5v6mms3m18zjfz5qntsj0m0000gn/T/AppTranslocation/DA30404B-F135-460C-AEFF-5201A107051D
+
+Network
+---------
+	inet 127.0.0.1 netmask 0xff000000 
+	inet 172.20.10.5 netmask 0xfffffff0 broadcast 172.20.10.15
+
+Top 5 Running Processes by memory
+----------------------------------
+mac              84910   0.5 11.6 1491015784 485396   ??  S    24Jul25 158:22.76 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/138.0.7204.158/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-GB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=547 --time-ticks-at-unix-epoch=-1752611122660579 --launch-time-ticks=594583143367 --shared-files --metrics-shmem-handle=1752395122,r,2083303822425202988,18188051894167092912,2097152 --field-trial-handle=1718379636,r,14771436922157805765,999428320515163968,262144 --variations-seed-version=20250721-180017.833000 --seatbelt-client=121
+mac              45116   9.0  5.5 1264733328 230152   ??  S     6Jul25 108:41.05 /private/var/folders/w4/wc5v6mms3m18zjfz5qntsj0m0000gn/T/AppTranslocation/DA30404B-F135-460C-AEFF-5201A107051D/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/mac/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/private/var/folders/w4/wc5v6mms3m18zjfz5qntsj0m0000gn/T/AppTranslocation/DA30404B-F135-460C-AEFF-5201A107051D/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-GB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1751572242598574 --launch-time-ticks=250238741660 --shared-files --field-trial-handle=1718379636,r,2499720983736629938,13876852146940656930,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:986e17b2-16d4-4216-a56d-dd9d80fa9e32 --seatbelt-client=64
+mac              23262   2.2  5.1 1489359992 214064   ??  S    Fri08PM  15:04.66 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/138.0.7204.158/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-GB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=2640 --time-ticks-at-unix-epoch=-1752611122660579 --launch-time-ticks=723718755215 --shared-files --metrics-shmem-handle=1752395122,r,17294476544587033295,3610414448988138420,2097152 --field-trial-handle=1718379636,r,14771436922157805765,999428320515163968,262144 --variations-seed-version=20250721-180017.833000 --seatbelt-client=100
+mac              81333   0.4  2.8 101692640 117288   ??  S    22Jul25 168:54.08 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --restart --restart
+mac              59297   0.0  2.5 1492491492 105112   ??  S    12:17PM   0:20.10 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/138.0.7204.158/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-GB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=3252 --time-ticks-at-unix-epoch=-1752611122660579 --launch-time-ticks=756593714366 --shared-files --metrics-shmem-handle=1752395122,r,5445297768461583356,11972937218797981317,2097152 --field-trial-handle=1718379636,r,14771436922157805765,999428320515163968,262144 --variations-seed-version=20250721-180017.833000 --seatbelt-client=169
+mac              81497   0.0  1.5 1492785292  64968   ??  S    22Jul25  24:50.48 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/138.0.7204.158/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --lang=en-GB --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=59 --time-ticks-at-unix-epoch=-1752611122660579 --launch-time-ticks=565596925269 --shared-files --metrics-shmem-handle=1752395122,r,815998488346994605,10437359400796817366,2097152 --field-trial-handle=1718379636,r,14771436922157805765,999428320515163968,262144 --variations-seed-version=20250721-180017.833000 --seatbelt-client=188

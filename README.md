@@ -22,12 +22,12 @@ Welcome to my Bash scripting practice log! I'm committing to write one Bash scri
 | 12  | File Compression & Archiving | ✅ Done | Learned to use tar, gzip, and zip for backups and selective compression |
 | 13  | Logging and Error Handling |  ✅ Done | Write logs, redirect stdout/stderr, trap errors, timestamps |
 | 14  | Script Parameters and Flags | ✅ Done | Use $1, $2, $@, shift, getopts for CLI-style scripts |
-| 15  | Menu-Driven Scripts & Final Review | ⏳ | Build interactive scripts (select, case), recap all core concepts |
+| 15  | Menu-Driven Scripts & Final Review | ✅ | Build interactive scripts (select, case and loops) |
 | 16  | -------------------------------------------------------------------------------------------------------
-| 17  | Disk Usage Reports | ⏳ | |
-| 18  | Log Monitoring | ⏳ | |
-| 19  | Backups & Archiving | ⏳ | |
-| 20  | System Info Script | ⏳ | |
+| 17  | Disk Usage Reports | ✅ | Create a script to report disk usage of a specified folder, with fallback and usage hints |
+| 18  | Log Monitoring | ✅ | Monitor specific log files for keywords, display recent entries, and optionally enable live tracking |
+| 19  | Interactive Log Parser | ✅ | Build a menu-driven script that uses `jq`, `grep`, `awk`, and `sed` to analyze different file types like JSON, plain text, and CSV |
+| 20  | System Monitoring Script | ✅ | Create a script to display system info: hostname, uptime, memory usage, CPU details, and top 5 memory-consuming processes |
 | 21  | Ping & Network Checks | ⏳ | |
 | 22  | Process Management | ⏳ | |
 | 23  | Permissions & Ownership | ⏳ | |
